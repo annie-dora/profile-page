@@ -1,0 +1,24 @@
+*{
+    margin: 0
+}
+.first{
+    background-image: url(../image/laptop.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-color: red; */
+    /* height: 100vh;
+    width: 200vh; */
+}
+.annie{
+    border-radius: 50px;
+    border: 1px solid red;
+    margin: 30px auto;
+}
+
+.second{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    margin: 10px auto;
+    
+}
